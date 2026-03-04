@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.Number-one,.cooler,.Number-five{
+  background-color:#ffb6c1;
+  font-family: 'Verdana' "DejaVu" "sans-serif";
+}
+
+#Number-two{
+  color: #0000ff;
+  font-size: 32px;
+
+}
+
+.cooler{
+  font-size: 24px;
+}
+#Number-four{
+  background-color: #90ee90;font-size: 24px;
+  font-weight: bold;
+}
